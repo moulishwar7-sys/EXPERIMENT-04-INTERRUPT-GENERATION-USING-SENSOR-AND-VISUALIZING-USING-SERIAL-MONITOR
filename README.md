@@ -292,8 +292,13 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  
  ## Circuit board :
+ 
+ ## With Interrupt
 
-  <img width="576" height="1280" alt="WhatsApp Image 2026-08-05 at 11 10 54 AM" src="https://github.com/user-attachments/assets/7bc22b8e-fc96-45a6-a10c-9e7539cc8dff" />
+<img width="427" height="710" alt="Screenshot 2026-09-22 111439" src="https://github.com/user-attachments/assets/2dcf5d60-a134-4034-91ae-efe4b4e42bbf" />
+
+
+ ## Without Interrupt 
 
    <img width="532" height="746" alt="EX 4" src="https://github.com/user-attachments/assets/7bcec055-ed72-40e9-a50a-881ca310f3b4" />
  
